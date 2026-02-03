@@ -1,7 +1,6 @@
 # Choudhary Crane Service - Crane Rental & Towing Website
 
-![Hero Screenshot](screenshots/hero-desktop.png)  
-*(Desktop homepage view with tagline "24/7 Crane & Towing Solutions – Your Lift. Our Strength")*
+
 
 Custom WordPress website developed for Choudhary Crane Service, a reliable provider of crane rentals and 24/7 towing solutions in Jaipur, Rajasthan (2025 client project).
 
