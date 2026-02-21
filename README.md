@@ -18,7 +18,6 @@ Custom WordPress website developed for Choudhary Crane Service, a reliable provi
 - About section emphasizing 16+ years experience, expert operators, precision, trust, and 24/7 availability
 - Stats counters: 16+ Years Experience, 30+ Cranes & Equipment, 95% On-Time Job Completion, 5,000+ Happy Customers
 - Testimonials carousel with real client feedback on responsiveness, skilled operators, pricing, and efficiency
-- Contact section with phones (+91 093142 80413), emails (choudharycrane2002@gmail.com, m.k.choudhary014@gmail.com), address (Tonk Rd, Sukhpuria, Jaipur), and inquiry form
 - Responsive design optimized for heavy equipment visuals and urgent service needs (mobile-first)
 - SEO-friendly for local Jaipur crane rental/towing searches
 
